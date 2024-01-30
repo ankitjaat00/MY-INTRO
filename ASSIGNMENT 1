@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Full Name</title>
+</head>
+<body>
+    <header>
+        <h1>ANKIT</h1>
+    </header>
+
+    <section>
+        <img src="c:\Users\ankit\OneDrive\Desktop\JAAT.jpg" alt="Your Professional Image">
+    </section>
+
+    <section>
+        <dl>
+            <dt>Student Number:</dt>
+            <dd>041124282</dd>
+
+            <dt>Program:</dt>
+            <dd>INTERNATIONAL MEDIA DESIGN</dd>
+
+            <dt>Course:</dt>
+            <dd>Course Code - MMT0062</dd>
+
+            <dt>Interesting Fact:</dt>
+            <dd>HARD WORKER</dd>
+        </dl>
+    </section>
+</body>
+</html>
